@@ -43,14 +43,14 @@ BS in Automation
 
 Experience
 ======
-**University of Southern California**, Los Angeles, *May.2022 - May. 2023*  
-RA, Biomedical Imaging Group;  
+**University of Southern California**, Los Angeles, *May. 2022 - May. 2023*  
+Reasearch Assistant, Biomedical Imaging Group;  
 Advisor: [Prof. Justin Haldar](https://mr.usc.edu/);  
 Research experience:
 * Hidden noise inside the computational Imaging
 * Improved reconstruction quality with estimator  
 
-**School of Computing at NUS**, Singapre, *Jul.2019 - Aug. 2019*  
+**School of Computing at NUS**, Singapre, *Jul. 2019 - Aug. 2019*  
 Summer School,Tele-Robot & Deep-Learning;  
 Advisor: [Prof. SOO Yuen Jien](https://www.comp.nus.edu.sg/~sooyj/);  
 Research experience:
