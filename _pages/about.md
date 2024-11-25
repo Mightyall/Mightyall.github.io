@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second yeat PhD student in the [Electrical and Computer Engineering Department](https://engineering.jhu.edu/ece/) at [Johns Hopkins University](https://www.jhu.edu/), under the guidance of [Professor Trac D. Tran](https://thanglong.ece.jhu.edu/).
+I am a second year PhD student in the [Electrical and Computer Engineering Department](https://engineering.jhu.edu/ece/) at [Johns Hopkins University](https://www.jhu.edu/), under the guidance of [Professor Trac D. Tran](https://thanglong.ece.jhu.edu/).
 
 Before joining JHU, I completed my Master's degree in [Electrical and Computer Engineering](https://minghsiehece.usc.edu/) at the [University of Southern California](https://www.usc.edu/), working closely with [Prof. Justin Haldar](https://mr.usc.edu/). Prior to that, I earned my B.S. in [Automation](https://automation.xjtu.edu.cn/) at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) in China.
 
@@ -16,7 +16,7 @@ To know more about me, here is my [CV](http://Mightyall.github.io/files/Di_An_CV
 
 Research Interest
 ======
-My current research foucs on:
+My current research focus on:
 * Compressed Sensing for Signal Reconstruction;
 * Inverse Problem;
 * Computational Imaging;
@@ -54,11 +54,11 @@ Research experience:
 Summer School,Tele-Robot & Deep-Learning;  
 Advisor: [Prof. SOO Yuen Jien](https://www.comp.nus.edu.sg/~sooyj/);  
 Research experience:
-* Used Raspberry Pi and Arduino commuting each other, together controlling the tele-robot  
+* Used Raspberry Pi and Arduino communicating each other, together controlling the tele-robot  
 * Implemented the SLAM into the tele-robot to achieve mapping ability  
-* Trained nueral network for tele-robot to recognize the barriers in the way  
+* Trained neural network for tele-robot to recognize the barriers in the way  
 
 Teaching
 ======
 * **EN.520.651 Random Signal Analysis**  
-  TA, Fall 2024, Johns Hopkins University 
+  Teaching Assistant, Fall 2024, Johns Hopkins University 
