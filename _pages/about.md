@@ -11,7 +11,7 @@ I am a second year PhD student in the [Electrical and Computer Engineering Depar
 
 Before joining JHU, I completed my Master's degree in [Electrical and Computer Engineering](https://minghsiehece.usc.edu/) at the [University of Southern California](https://www.usc.edu/), working closely with [Prof. Justin Haldar](https://mr.usc.edu/). Prior to that, I earned my B.S. in [Automation](https://automation.xjtu.edu.cn/) at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) in China.
 
-To know more about me, here is my [CV](http://Mightyall.github.io/files/Di_An_CV_2024.pdf)
+To know more about me, here is my [CV](http://Mightyall.github.io/files/AndyCV.pdf)
 
 
 Research Interest
