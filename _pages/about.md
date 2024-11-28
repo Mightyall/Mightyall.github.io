@@ -19,6 +19,7 @@ Research Interest
 My current research focus on:
 * Compressed Sensing for Signal Reconstruction;
 * Inverse Problem;
+* Sparse Recovery;
 * Computational Imaging;
 * Optimization in Deep Learning/Machine Learning;
 
